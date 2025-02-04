@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehi2k5
+- 👋 Hi, I’m @Mehi2k5 aka Endy.
 - 👀 I’m interested in coding, playing guitar and chess
 - 🌱 I’m currently learning C++, C and Python
 - 💞️ I’m looking to collaborate on ...
